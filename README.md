@@ -14,8 +14,5 @@ https://user-images.githubusercontent.com/120726367/212174415-9d7f1739-a7ea-4222
 
 
 
-# Downlod apk
 
-[Click here](https://github.com/Inamdarsahil/rowner/raw/main/Rowner_01%20alpha12A3.apk)
- 
 
